@@ -1,0 +1,7 @@
+{
+  "metadata": { "datasets": ["NDFD", "TSDFD"] },
+  "data": [
+    { "forecastDate": "2026-07-06", "publishTime": "2026-07-04T13:45:00Z", "transmissionSystemDemand": 26480, "nationalDemand": 25980 },
+    { "forecastDate": "2026-07-07", "publishTime": "2026-07-04T13:45:00Z", "transmissionSystemDemand": 27710, "nationalDemand": 27210 }
+  ]
+}

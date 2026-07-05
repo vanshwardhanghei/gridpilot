@@ -1,0 +1,5 @@
+{
+  "data": [
+    { "from": "2026-07-05T11:00Z", "to": "2026-07-05T11:30Z", "intensity": { "forecast": 68, "actual": 69, "index": "low" } }
+  ]
+}

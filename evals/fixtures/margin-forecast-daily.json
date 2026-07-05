@@ -1,0 +1,7 @@
+{
+  "metadata": { "datasets": ["OCNMFD2"] },
+  "data": [
+    { "forecastDate": "2026-07-07", "publishTime": "2026-07-05T11:00:00Z", "margin": 10833 },
+    { "forecastDate": "2026-07-08", "publishTime": "2026-07-05T11:00:00Z", "margin": 8652 }
+  ]
+}

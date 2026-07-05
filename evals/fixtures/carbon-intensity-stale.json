@@ -1,0 +1,5 @@
+{
+  "data": [
+    { "from": "2020-01-01T00:00Z", "to": "2020-01-01T00:30Z", "intensity": { "forecast": 120, "actual": 118, "index": "moderate" } }
+  ]
+}

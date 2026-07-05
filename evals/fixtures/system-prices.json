@@ -1,0 +1,14 @@
+{
+  "metadata": { "datasets": ["DISEBSP"] },
+  "data": [
+    {
+      "settlementDate": "2026-07-05",
+      "settlementPeriod": 24,
+      "startTime": "2026-07-05T10:30:00Z",
+      "createdDateTime": "2026-07-05T11:03:00Z",
+      "systemSellPrice": 129.0,
+      "systemBuyPrice": 129.0,
+      "netImbalanceVolume": 158.4
+    }
+  ]
+}

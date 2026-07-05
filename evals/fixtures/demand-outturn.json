@@ -1,0 +1,13 @@
+{
+  "metadata": { "datasets": ["INDO", "ITSDO"] },
+  "data": [
+    {
+      "publishTime": "2026-07-05T12:00:00Z",
+      "startTime": "2026-07-05T11:30:00Z",
+      "settlementDate": "2026-07-05",
+      "settlementPeriod": 24,
+      "initialDemandOutturn": 17634,
+      "initialTransmissionSystemDemandOutturn": 19160
+    }
+  ]
+}
