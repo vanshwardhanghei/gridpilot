@@ -2,6 +2,10 @@
 
 `v0.1 — built in a day, evals green, roadmap open`
 
+[![CI](https://github.com/vanshwardhanghei/gridpilot/actions/workflows/ci.yml/badge.svg)](https://github.com/vanshwardhanghei/gridpilot/actions/workflows/ci.yml)
+
+**Live:** https://gridpilot-ten.vercel.app
+
 Grounded question-answering over live, public Great Britain electricity grid
 data. Ask a question, GridPilot fetches real numbers from named public APIs,
 narrates them inside a validator that cannot cite a figure the data didn't
